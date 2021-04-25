@@ -1,1 +1,0 @@
-# gokansas.github.io
