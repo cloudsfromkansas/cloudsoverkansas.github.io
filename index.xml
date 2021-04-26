@@ -5,6 +5,15 @@
     <link>/</link>
     <description>Recent content on Code by Ryan</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/aboutme/</link>
+      <pubDate>Sun, 25 Apr 2021 00:31:47 -0500</pubDate>
+      
+      <guid>/aboutme/</guid>
+      <description>I’m a software engineer from Kansas. I&amp;rsquo;ve lived in Africa and South America but I now happily reside in good ol&#39; Kansas City. I’ve worked for small startups to large enterprises. Before I kicked off my professional software engineering career 6 years ago, I had been a freelance web developer and system administrator. If you’re interested in what I’ve done professionally, please add me on LinkedIn, https://www.linkedin.com/in/dataryan/. I’ve worked with a large swath of technologies on premise and in AWS.</description>
+    </item>
+    
     
   </channel>
 </rss>
