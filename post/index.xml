@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Code by Ryan</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Code by Ryan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 27 Apr 2021 13:16:14 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, Blog</title>
+      <link>/post/hello_blog/</link>
+      <pubDate>Tue, 27 Apr 2021 13:16:14 -0500</pubDate>
+      
+      <guid>/post/hello_blog/</guid>
+      <description>A couple weeks ago, I started my foray into Go programming. I thought what better way to start than to use Hugo, a Go programmed static site generator, to develop a blog and write about learning Go programming and doing software engineering. I followed The Simple Engineer’s video Creating a Blog with Hugo and Github in 10 minutes and instead of spending 10 minutes, I spent about 10 hours working with Hugo server, GitHub pages, its DNS, finicky Git submodules and a fruitless foray into git worktrees.</description>
+    </item>
+    
+  </channel>
+</rss>
